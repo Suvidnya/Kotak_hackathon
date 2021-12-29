@@ -47,6 +47,9 @@ ul{
     padding: 0px;
 
 }
+.navli{
+  margin-top: 15px;
+}
 .profile{
     flex: 0.4;
     display: flex;
@@ -84,6 +87,15 @@ input{
 
 .sideul{
     margin-top: 20px;
+}
+
+#homeli{
+    color: #003874;
+    font-weight: bold;
+}
+.sideli:hover{
+    color: #003874;
+    font-weight: bold;
 }
 .sideli{
     margin: 15px 0;
