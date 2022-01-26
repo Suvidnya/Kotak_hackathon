@@ -1,1 +1,1 @@
-# team_SOVA
+### Designed a bank dashboard in this hackathon.
